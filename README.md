@@ -21,6 +21,10 @@
 
 ---
 
+Check this out too https://claude.ai/public/artifacts/8a0e2ef5-a562-4bde-8ea8-ac8f1429417c
+
+---
+
 ## 0. Prerequisites
 
 You need:
